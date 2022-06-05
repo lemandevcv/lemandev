@@ -1,0 +1,149 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Classic Shader",
+      "add_url":"https://download2279.mediafire.com/03fo7bqqnceg/f93rxw4fsop3vxi/Classic_Shader%28FIX_BUG%29.mcpack",
+      "addB_url":"",
+      "addR_url":"https://download2279.mediafire.com/03fo7bqqnceg/f93rxw4fsop3vxi/Classic_Shader%28FIX_BUG%29.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":2,
+      "name_add":"Classic Shader",
+      "add_url":"https://download2277.mediafire.com/cbhecqyngmmg/crfzk5lcj5tlli2/Clear+Vanilla+%28Classic%29.mcpack",
+      "addB_url":"",
+      "addR_url":"https://download2277.mediafire.com/cbhecqyngmmg/crfzk5lcj5tlli2/Clear+Vanilla+%28Classic%29.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":3,
+      "name_add":"Classic Shader",
+      "add_url":"https://download1649.mediafire.com/p3m0147aq3vg/ni4vcvej3acja00/All+Updates.mcpack",
+      "addB_url":"",
+      "addR_url":"https://download1649.mediafire.com/p3m0147aq3vg/ni4vcvej3acja00/All+Updates.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q3.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":4,
+      "name_add":"Classic Shader",
+      "add_url":"http://download1327.mediafire.com/h7lix2bbqrkg/5dmuoanst27ofbj/sideways_planks_pack.mcpack",
+      "addB_url":"",
+      "addR_url":"http://download1327.mediafire.com/h7lix2bbqrkg/5dmuoanst27ofbj/sideways_planks_pack.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q4.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":5,
+      "name_add":"Classic Shader",
+      "add_url":"https://download2267.mediafire.com/yp3yrqoqoxlg/vz7pznm0r89y85v/FixedVanilla.mcpack",
+      "addB_url":"",
+      "addR_url":"https://download2267.mediafire.com/yp3yrqoqoxlg/vz7pznm0r89y85v/FixedVanilla.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q5.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":6,
+      "name_add":"Classic Shader",
+      "add_url":"https://download1474.mediafire.com/dyrv9yp6sl7g/mok8lw1r6v7p1vg/Outline+Ores+for+Classic.mcpack",
+      "addB_url":"",
+      "addR_url":"https://download1474.mediafire.com/dyrv9yp6sl7g/mok8lw1r6v7p1vg/Outline+Ores+for+Classic.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q6.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":7,
+      "name_add":"Classic Shader",
+      "add_url":"https://download614.mediafire.com/a72tywb6q3ug/aphw2efknj31yyt/Classic+Texture+Pack.mcpack",
+      "addB_url":"",
+      "addR_url":"https://download614.mediafire.com/a72tywb6q3ug/aphw2efknj31yyt/Classic+Texture+Pack.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q7.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":8,
+      "name_add":"Classic Shader",
+      "add_url":"https://api.mcpedl.com/api/download/289019/?r=eyJpdiI6InJYSFl5T2FJVUROMFpBazMwZU83YkE9PSIsInZhbHVlIjoiS211MjNpUUs1VTVWQmJQbWpZSEpwUUFSeGdHNjhwdUFEbkQ0bjBSZjZxa0d3OWZRYzFTVW16ZXJEckhVa1JpTFV4SWQ1ZFc0YnA1NzhrcHNvRS84WEFITHJIOFg3WnIxMjdBaXRSeFZjMWd2dFZuTzRuSE85WVdnRnZKM3R2eEVCVTlDY2VyOG1uZFBjTWZCNVBSU1hWVS9IdE9QNlAwcWx4bzNBRmh5ZVMvV2FlOFJlcHlFTEhlMGRTNkdZYnRPN3FxbVZ3dXFsa1FWQ3c4RE81R1BBRFJwMGQyS2gvSi9CSVp1YkhQYm1IVmJtTU1rellldU0vajk5M3c4c3N3RHFYTXZya0haNzhJY1RLa3pvdEJsQkxGVXUyWEdiM1VhaXVuc0dOS2tlVmdVdlZGNFlLcktBU0N2K2N3eVFYUlhtNmptaFNUbUFwWHVDbmFsUTI1cGFhVjR4bHgybzlBT2lGT05BVTg4R1c3TmQ4ekZZb2oycGtQbDVHU1ljaVpmSDI4VXE0bzY0cStMcTVyZzhCaWJ6TDFYb2haZ29Ra01WUi9KRTJFbFp1UU84eFdNN0ZzZGhvS2M2eDJMcmJzL2t5OExnN28yRVd6NG12UXJNOG8xM0Z2ZlVhQW1vYzNaRHZJSlpKbnpxbHJlcDJvd2MzVEJCb2VFY1U0Z1lJcVpEN09GZWd3bXZKTTFOTW1jUHhENkdEREwzRFcyMnM4dGt1Y1lLVWNXakNEaFhYQmFFaTZVTjQxdnNGTTVFZlpTbTVKZUsvQ3JTd3FYaUlLVW1OWWdlOFlXemZhV1J6dGhUL2N4RlBleWJtbW0yeFpEejhFS1Nzd2x4SXVZV2pFdXhIK0JHcmVzY0o4TmVvS2FMUXRTdnA3UWhzem5DL0I1ZFZsdDNETlpxLzIzUG1OcmVycFZ0czBnTFJEbGpsaDhYY3djcFF3K2VxTnZiVHZoQVI0OXhsMDk2WmNPN09GOUZFQTE5YjR2T0N0eUtQRGIwY0lVcE9sbTF0dEJWVGloby9vRnQ4a0Q1MkxBRWVkRUtyaXhqTkFRenJGNXFhTS9DbE50bUZzVnZJekJWbklrSy9rMkp2SEJLdG5PTGJ4OEs0TEl3UTNNdzdDQ29ZVk51cXk1T1RKNk9ucnl1blF6YVdIcXdoYXo1NmFZbFdaNlhkUVV1ODhSMkhUWjdSS2ciLCJtYWMiOiI1NTU5MjM3MjE2ZTVkNmYzNDUxZWNmY2VjNDBlNjUwZTQzYTU2ZjE3NWU1MWExOWE0NmQ1YzMwNmNkZTM5ZGNmIn0=&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=nredbz9iq4g",
+      "addB_url":"",
+      "addR_url":"https://api.mcpedl.com/api/download/289019/?r=eyJpdiI6InJYSFl5T2FJVUROMFpBazMwZU83YkE9PSIsInZhbHVlIjoiS211MjNpUUs1VTVWQmJQbWpZSEpwUUFSeGdHNjhwdUFEbkQ0bjBSZjZxa0d3OWZRYzFTVW16ZXJEckhVa1JpTFV4SWQ1ZFc0YnA1NzhrcHNvRS84WEFITHJIOFg3WnIxMjdBaXRSeFZjMWd2dFZuTzRuSE85WVdnRnZKM3R2eEVCVTlDY2VyOG1uZFBjTWZCNVBSU1hWVS9IdE9QNlAwcWx4bzNBRmh5ZVMvV2FlOFJlcHlFTEhlMGRTNkdZYnRPN3FxbVZ3dXFsa1FWQ3c4RE81R1BBRFJwMGQyS2gvSi9CSVp1YkhQYm1IVmJtTU1rellldU0vajk5M3c4c3N3RHFYTXZya0haNzhJY1RLa3pvdEJsQkxGVXUyWEdiM1VhaXVuc0dOS2tlVmdVdlZGNFlLcktBU0N2K2N3eVFYUlhtNmptaFNUbUFwWHVDbmFsUTI1cGFhVjR4bHgybzlBT2lGT05BVTg4R1c3TmQ4ekZZb2oycGtQbDVHU1ljaVpmSDI4VXE0bzY0cStMcTVyZzhCaWJ6TDFYb2haZ29Ra01WUi9KRTJFbFp1UU84eFdNN0ZzZGhvS2M2eDJMcmJzL2t5OExnN28yRVd6NG12UXJNOG8xM0Z2ZlVhQW1vYzNaRHZJSlpKbnpxbHJlcDJvd2MzVEJCb2VFY1U0Z1lJcVpEN09GZWd3bXZKTTFOTW1jUHhENkdEREwzRFcyMnM4dGt1Y1lLVWNXakNEaFhYQmFFaTZVTjQxdnNGTTVFZlpTbTVKZUsvQ3JTd3FYaUlLVW1OWWdlOFlXemZhV1J6dGhUL2N4RlBleWJtbW0yeFpEejhFS1Nzd2x4SXVZV2pFdXhIK0JHcmVzY0o4TmVvS2FMUXRTdnA3UWhzem5DL0I1ZFZsdDNETlpxLzIzUG1OcmVycFZ0czBnTFJEbGpsaDhYY3djcFF3K2VxTnZiVHZoQVI0OXhsMDk2WmNPN09GOUZFQTE5YjR2T0N0eUtQRGIwY0lVcE9sbTF0dEJWVGloby9vRnQ4a0Q1MkxBRWVkRUtyaXhqTkFRenJGNXFhTS9DbE50bUZzVnZJekJWbklrSy9rMkp2SEJLdG5PTGJ4OEs0TEl3UTNNdzdDQ29ZVk51cXk1T1RKNk9ucnl1blF6YVdIcXdoYXo1NmFZbFdaNlhkUVV1ODhSMkhUWjdSS2ciLCJtYWMiOiI1NTU5MjM3MjE2ZTVkNmYzNDUxZWNmY2VjNDBlNjUwZTQzYTU2ZjE3NWU1MWExOWE0NmQ1YzMwNmNkZTM5ZGNmIn0=&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=nredbz9iq4g",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q8.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":9,
+      "name_add":"Classic Shader",
+      "add_url":"https://api.mcpedl.com/api/download/281672/?r=eyJpdiI6ImNoQlE0WWdFdXFSWTllb0tYNUtWRkE9PSIsInZhbHVlIjoibmRxVnQwZ1grdGR2WTRJWndkSTBqeVo0dlV0dktockx1Mm1yWTdPQTRrN1YzdWJ1M2cyOUFKWnd4eTIzd3F2OHZaek9hZTlJSG03aFdpakdBUDVuRTAwemhsWUliQWkvN2lvemlsVlVVQVA4V3RoZ3E3TXQ3eEdObW9zRElGS3JyT3NQRzZZVDZKZVhxdXVyQmVEZzZFMXVxcmZJenFZV3g1K3JZZ3hzVWNKN2NJdVF0NmRjVytNeUt0NEtQbzEvRm9ZbS85VVlBT044Skc0VDAxWlBzNzAxY0cwQlBVV1ZXZjNTaCtwU0xLTTVHMERwOVBDWDNCWmUzVVlPUDJYbFVabTJyTmZ6NnpmdktaTlUvbG5uT0k2djYrUGJ0dG10RjJWczRsZHdWS1hheFMyN3NGcDRrQ3Vub3F0YVdEZk81SC9oM0xydkx2MDVwQisxRjl3UnFVYUlVU3R4Um84NzIwdkI4WGNDemZkNXZScTNGcnpVcXpMd0gxdmo0TVpDRlJXdXBsNlpmQjdTK2hjRFNMZnAzSlFzekwxU1hZNll0OXhWNnB6andKZ2srbXFreUlOaGQ1NGVrNXJzeWxaZWE5a0tFVXJKM3hxK0NaTXdXWWFPYmN6TFJSOHZaSVpCeERldkk0d1hMc09jRWJVNlB5T3ZxUHBTakxnVE9sazFUMEhleXEzUmdsY1BRbWlrTCtKcWhOQUJYd2JaT0J2ZDVaV0ZuRXFtQ3VvUXJhWkxBZnhXazdZSmZ5NTlueW5jTWI0V1hOUCt5QWFsN2IvVmFGWjFPZE9Ya3BYd1dPUVdEVGhoSFpyYTFaQWhXaldQN00wRG44NVhLUzdzcTRVV00weFp6WXZLOGVjNmRZdjhlRkphaGxXN3JOaXVOL29MUUZkZ2MxdGRTZHlra2l6Mklvc09mUDBYejNBZiszWVExL3FPRFlNZEdWRlVEQ004WTNzenBYVGZ2a3p6azk0a0NZZDVXZmhQcGZxc0FNOC80MFJ5elM1cFRSYkpPMEhmS1RaSGQvUU5pM3VDY3gwdDVDZXBHNTI0UGR0UzhvVCtBNktXNzZmbmJxcFFyZ2JEVGlzMEc3RVNwUmF6NWYrblh0YkZtZS9VRkp2M05kRkZqVW9tTW9GZjJLa2tKeU56Y20yNEkrWTlUb21Kenk3K1Jyd1VDQ1RyOHlOSlUrODd1cldtVmlsNGpYN1pONmhCMTZJKzZ3PT0iLCJtYWMiOiIyYjgxZjE5YmM4OGM4ZTI2OGNhNWRmZjQzN2NjNDMwMGFmZmUyOGZlYzhhMjc3Y2ZhN2QxYTU4YjkyNTlkMmFkIn0=&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=nredbz9iq4g",
+      "addB_url":"",
+      "addR_url":"https://api.mcpedl.com/api/download/281672/?r=eyJpdiI6ImNoQlE0WWdFdXFSWTllb0tYNUtWRkE9PSIsInZhbHVlIjoibmRxVnQwZ1grdGR2WTRJWndkSTBqeVo0dlV0dktockx1Mm1yWTdPQTRrN1YzdWJ1M2cyOUFKWnd4eTIzd3F2OHZaek9hZTlJSG03aFdpakdBUDVuRTAwemhsWUliQWkvN2lvemlsVlVVQVA4V3RoZ3E3TXQ3eEdObW9zRElGS3JyT3NQRzZZVDZKZVhxdXVyQmVEZzZFMXVxcmZJenFZV3g1K3JZZ3hzVWNKN2NJdVF0NmRjVytNeUt0NEtQbzEvRm9ZbS85VVlBT044Skc0VDAxWlBzNzAxY0cwQlBVV1ZXZjNTaCtwU0xLTTVHMERwOVBDWDNCWmUzVVlPUDJYbFVabTJyTmZ6NnpmdktaTlUvbG5uT0k2djYrUGJ0dG10RjJWczRsZHdWS1hheFMyN3NGcDRrQ3Vub3F0YVdEZk81SC9oM0xydkx2MDVwQisxRjl3UnFVYUlVU3R4Um84NzIwdkI4WGNDemZkNXZScTNGcnpVcXpMd0gxdmo0TVpDRlJXdXBsNlpmQjdTK2hjRFNMZnAzSlFzekwxU1hZNll0OXhWNnB6andKZ2srbXFreUlOaGQ1NGVrNXJzeWxaZWE5a0tFVXJKM3hxK0NaTXdXWWFPYmN6TFJSOHZaSVpCeERldkk0d1hMc09jRWJVNlB5T3ZxUHBTakxnVE9sazFUMEhleXEzUmdsY1BRbWlrTCtKcWhOQUJYd2JaT0J2ZDVaV0ZuRXFtQ3VvUXJhWkxBZnhXazdZSmZ5NTlueW5jTWI0V1hOUCt5QWFsN2IvVmFGWjFPZE9Ya3BYd1dPUVdEVGhoSFpyYTFaQWhXaldQN00wRG44NVhLUzdzcTRVV00weFp6WXZLOGVjNmRZdjhlRkphaGxXN3JOaXVOL29MUUZkZ2MxdGRTZHlra2l6Mklvc09mUDBYejNBZiszWVExL3FPRFlNZEdWRlVEQ004WTNzenBYVGZ2a3p6azk0a0NZZDVXZmhQcGZxc0FNOC80MFJ5elM1cFRSYkpPMEhmS1RaSGQvUU5pM3VDY3gwdDVDZXBHNTI0UGR0UzhvVCtBNktXNzZmbmJxcFFyZ2JEVGlzMEc3RVNwUmF6NWYrblh0YkZtZS9VRkp2M05kRkZqVW9tTW9GZjJLa2tKeU56Y20yNEkrWTlUb21Kenk3K1Jyd1VDQ1RyOHlOSlUrODd1cldtVmlsNGpYN1pONmhCMTZJKzZ3PT0iLCJtYWMiOiIyYjgxZjE5YmM4OGM4ZTI2OGNhNWRmZjQzN2NjNDMwMGFmZmUyOGZlYzhhMjc3Y2ZhN2QxYTU4YjkyNTlkMmFkIn0=&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=nredbz9iq4g",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q9.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":10,
+      "name_add":"Classic Shader",
+      "add_url":"https://download1648.mediafire.com/77jty5a828hg/2c9edinnnabob45/Classic+Texture+Fix.mcpack.zip",
+      "addB_url":"",
+      "addR_url":"https://download1648.mediafire.com/77jty5a828hg/2c9edinnnabob45/Classic+Texture+Fix.mcpack.zip",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q10.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":11,
+      "name_add":"Classic Shader",
+      "add_url":"https://download937.mediafire.com/lvebnznznymg/ydxdjryu2s4d40o/survival.mcaddon",
+      "addB_url":"",
+      "addR_url":"https://download937.mediafire.com/lvebnznznymg/ydxdjryu2s4d40o/survival.mcaddon",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q11.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":12,
+      "name_add":"Classic Shader",
+      "add_url":"https://api.mcpedl.com/api/download/314397/?r=eyJpdiI6IjNLc2gxbUJlaGpjai9VdmRUQ0dYenc9PSIsInZhbHVlIjoiRkQ2ODVlU1kzeXg5anFjT0xrNWh6dVBLQzJnbklTS3diWlU4U2ppbUNJRVpBQVk2R1N1eHlpRGRVakNpN0k4WUNtU2Ixb1U0SnJWWXE2aWhKQ0FEQkNkamVuYlFVeGM2cWNuejJkU2ZFV09QMFl0TGhyQ0FjemJ2WnYrTFpZTjVpaHlSS0RodVpOYy9nMllmVENBekJZRDFJTXBLbldXdlJqSWNoaTM2T2RmWFZBYlVNTkhCSmozQXNKV1Nsd3FjNnJIKzJTalN5VG8wR1YwOHJyajdBTXpWVHBJUFhQdDdZMVJBK0NsVEEwUG1HclFmU0FJUURFVjlNUkhEaGdqQmU3Q1lwOGN2RzBjKzRJVU52RDY2ZGFUYTJlb2IrUDFsbEJVOXdtcFlvMDZ5N2NJREVaT2lYVTRYWTcwU1JBaGNKb1hPb2dMMCtXaFlxTExEeUUwUjJIZE1ETkdOUkhLbVF1N3ZTT2V2cGZUV05La1k1Ri9LME1FSDl4M2YxNDRrN2o0dTc3MDcyeWVXbllyM09kR0pLZmMvQmpzN2lPVlJHV3Z0NG5IeUlzS0JiRDBIRkliYjFXV0poMCtwaXRNZHM4UGs5SDZ0ZDAwS0wyTEFwVmU4NWVVcDFnbDNIc3ZRV1hJQ1JPbXJVQkk1OWpZSDl2am9LdFVZMEJYK2FHMUVOaXhtL0FXN0ovMURudjl3TmwrNzIrUVA4WHlIdlFQOHExc3JhUG5vbk5YM3hsYTFBa2RPSXB3dmsyM2VmLy8rNzlVbmcxNzI1dXUwQkJGNUNyT0NFdGxJWmtzUGc0OGg0aDVidTk0YjEvNWZHN1FjN1hpTTNvQ3p6VndNQ3ovZzQvZFdRNUN6ZjlTVVlrSUx0clhHL0hTUjhhNU0vcmNodk5LdmFBWE9xTTRkY1JKMHVDQXZjd2FuTmd2QWpXY2h0WG9FSkNHdkVjY3F0bUVaRUtiVlZac2owOG9MTVdabTJpWUloZ0NTVjI5eEZ1YjgvS3VXWUI0dnkrTUFJRjJuUDRrOENUSU5zQnpobFJyTW53b2kzdlBzK2JJdjljNUZBTjRDVTRpWTBGYjA1MHhmNGIwMHRjanhWSmZlT1RYdmVtU3pjSUEwQWlONlMzQUJHYy9OelBxYnZpVFJRYlpXbnV3cHhZQUY5aVlJSE1pQXNiWU4yb2lTRDlIKzZ4Umw4SURuS0pZYnBBelgyd0UrMFBDVnlmZ054WWhmNXlNVTZId2ZvRFBYSVRnPSIsIm1hYyI6IjZiZmE2MThkNTVkNWIzOWY0NzMxMzIxZTljZTRhOTNiNjI1YjY4ZTRmZmYzOWY1Y2IxMmQ2ZTYxMjc2ZjAzY2QifQ==&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=nredbz9iq4g",
+      "addB_url":"",
+      "addR_url":"https://api.mcpedl.com/api/download/314397/?r=eyJpdiI6IjNLc2gxbUJlaGpjai9VdmRUQ0dYenc9PSIsInZhbHVlIjoiRkQ2ODVlU1kzeXg5anFjT0xrNWh6dVBLQzJnbklTS3diWlU4U2ppbUNJRVpBQVk2R1N1eHlpRGRVakNpN0k4WUNtU2Ixb1U0SnJWWXE2aWhKQ0FEQkNkamVuYlFVeGM2cWNuejJkU2ZFV09QMFl0TGhyQ0FjemJ2WnYrTFpZTjVpaHlSS0RodVpOYy9nMllmVENBekJZRDFJTXBLbldXdlJqSWNoaTM2T2RmWFZBYlVNTkhCSmozQXNKV1Nsd3FjNnJIKzJTalN5VG8wR1YwOHJyajdBTXpWVHBJUFhQdDdZMVJBK0NsVEEwUG1HclFmU0FJUURFVjlNUkhEaGdqQmU3Q1lwOGN2RzBjKzRJVU52RDY2ZGFUYTJlb2IrUDFsbEJVOXdtcFlvMDZ5N2NJREVaT2lYVTRYWTcwU1JBaGNKb1hPb2dMMCtXaFlxTExEeUUwUjJIZE1ETkdOUkhLbVF1N3ZTT2V2cGZUV05La1k1Ri9LME1FSDl4M2YxNDRrN2o0dTc3MDcyeWVXbllyM09kR0pLZmMvQmpzN2lPVlJHV3Z0NG5IeUlzS0JiRDBIRkliYjFXV0poMCtwaXRNZHM4UGs5SDZ0ZDAwS0wyTEFwVmU4NWVVcDFnbDNIc3ZRV1hJQ1JPbXJVQkk1OWpZSDl2am9LdFVZMEJYK2FHMUVOaXhtL0FXN0ovMURudjl3TmwrNzIrUVA4WHlIdlFQOHExc3JhUG5vbk5YM3hsYTFBa2RPSXB3dmsyM2VmLy8rNzlVbmcxNzI1dXUwQkJGNUNyT0NFdGxJWmtzUGc0OGg0aDVidTk0YjEvNWZHN1FjN1hpTTNvQ3p6VndNQ3ovZzQvZFdRNUN6ZjlTVVlrSUx0clhHL0hTUjhhNU0vcmNodk5LdmFBWE9xTTRkY1JKMHVDQXZjd2FuTmd2QWpXY2h0WG9FSkNHdkVjY3F0bUVaRUtiVlZac2owOG9MTVdabTJpWUloZ0NTVjI5eEZ1YjgvS3VXWUI0dnkrTUFJRjJuUDRrOENUSU5zQnpobFJyTW53b2kzdlBzK2JJdjljNUZBTjRDVTRpWTBGYjA1MHhmNGIwMHRjanhWSmZlT1RYdmVtU3pjSUEwQWlONlMzQUJHYy9OelBxYnZpVFJRYlpXbnV3cHhZQUY5aVlJSE1pQXNiWU4yb2lTRDlIKzZ4Umw4SURuS0pZYnBBelgyd0UrMFBDVnlmZ054WWhmNXlNVTZId2ZvRFBYSVRnPSIsIm1hYyI6IjZiZmE2MThkNTVkNWIzOWY0NzMxMzIxZTljZTRhOTNiNjI1YjY4ZTRmZmYzOWY1Y2IxMmQ2ZTYxMjc2ZjAzY2QifQ==&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=nredbz9iq4g",
+      "view_add":"https://lemandevcv.github.io/lemangambar/classicshader/q12.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+

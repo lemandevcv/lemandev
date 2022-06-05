@@ -1,0 +1,95 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Baby Player",
+      "add_url":"https://archive.org/download/5-r_20220604/1.zip",
+      "addB_url":"",
+      "addR_url":"https://archive.org/download/5-r_20220604/1R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/babyplayer/q1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":2,
+      "name_add":"Baby Player",
+      "add_url":"https://archive.org/download/5-r_20220604/2.zip",
+      "addB_url":"",
+      "addR_url":"https://archive.org/download/5-r_20220604/2R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/babyplayer/q2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":3,
+      "name_add":"Baby Player",
+      "add_url":"https://archive.org/download/5-r_20220604/3.zip",
+      "addB_url":"https://archive.org/download/5-r_20220604/3B.mcpack",
+      "addR_url":"https://archive.org/download/5-r_20220604/3R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/babyplayer/q3.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":4,
+      "name_add":"Baby Player",
+      "add_url":"https://archive.org/download/5-r_20220604/4.zip",
+      "addB_url":"https://archive.org/download/5-r_20220604/4B.mcpack",
+      "addR_url":"",
+      "view_add":"https://lemandevcv.github.io/lemangambar/babyplayer/q4.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":5,
+      "name_add":"Baby Player",
+      "add_url":"https://archive.org/download/5-r_20220604/5.zip",
+      "addB_url":"",
+      "addR_url":"https://archive.org/download/5-r_20220604/5R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/babyplayer/q5.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":6,
+      "name_add":"Baby Player",
+      "add_url":"https://archive.org/download/5-r_20220604/6.zip",
+      "addB_url":"https://archive.org/download/5-r_20220604/6B.mcpack",
+      "addR_url":"https://archive.org/download/5-r_20220604/6R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/babyplayer/q6.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
