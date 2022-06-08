@@ -1,0 +1,95 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Music+ Resource Pack Mod MCPE",
+      "add_url":"https://download2270.mediafire.com/8bxid75cwqkg/bb6i4t1ab8ep8tv/MusicPlus%283.1.0%29.mcpack",
+      "addB_url":"https://download2270.mediafire.com/8bxid75cwqkg/bb6i4t1ab8ep8tv/MusicPlus%283.1.0%29.mcpack",
+      "addR_url":"https://download2270.mediafire.com/8bxid75cwqkg/bb6i4t1ab8ep8tv/MusicPlus%283.1.0%29.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/music/q1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":2,
+      "name_add":"Music+ Resource Pack Mod MCPE",
+      "add_url":"https://api.mcpedl.com/api/download/348777/?r=eyJpdiI6Ilcxak12YzdVQXlYWm1zU0dNMXFQTmc9PSIsInZhbHVlIjoiMEpkUWVqUDg2UWtKQlZFMy9KYWtrS1d2cTEraDdGcm91ViswVllnMmd3MjFRM3ljMUE5V0FXUGU3eEJabHRDdG1Ga3VaVWhKQmRQa1o2ZjZ6ZEx6ZUdZdWpJYWtMZEJ0cmNvMzFrWHpSbWRicHRxVFdia0YybEVrcVRLNnJ4M2UyWUVZR0ZMaHpNRWppN2Yvci9TVzZjTC8rWFpmeC9FRDdxZDYvY3kvcW5EaEtyVTlpN25oMDFzRjNzQkx4YzV3eDVnaXdKQ3FBN1k1WWZOZjA5ZzN4d2x4VlJ0bndicGgreWJ4NEp6WlMwSjZQK2ZrSjNSdnRvaXVGMDYvT2VwSDd4eWp4Y2VhN2p5Z2YxWVFBUFhuQjZVZUkxbWlHUHBobXE4citOZU5PYkQ0MjczSDJYRGQzVVBuYVVRNUpCS2ZBL3BQcitJVUJVQnVyVEN4VE5aQzdtbVUzL0JpNXZsRU80QzRpYkdMdE5QUlhxQ3hOWDB6Um5FdmJTOE1veEgrRytZZGMwcmFVNlJFeVk1ZGlxMEJldkFnVHFqaGpYcXlOd3NCZ1c4aTF3bGlVdnJmWWNsUXgzWFJZNmUzeXVIN1gzakcxR3J6UjVSOTdzQUpjZDRsVEE5L3IzNnRlRUJMSE50cVRaN3ZjaWQ0UzZqNkszYzJWOFNDMmxIZ2ZXUERGUllQbGcxcmhYL0JkMS84d0NNMUVJVW1zbGpwZVdYTW1HWDlNa2tWU01sSVpiYUx6RDJHWnhPQzhLREQvcjJYWjBwRHgzelgyOVZRU3dLTUE3N2owY1k2OXJjNE4vRGdtM2V4UkVzRHY5cTNnZUtoSzVXQ28ra01ZRmxabGNLcUhEUS9xNXFHQlU0VGRnRWM3YVAzcUUydmN4OTVZcEtJWG5jblF5T0JBMzFMR0p6Sk5pZDZSRHAyVnVtWHRWVEZrVFh2TWZmeUsvNlJKWmZKbWVtdndXUGlJYXpzSVQ3TS8remdFUDBTQ05FR2dxZ2F0dVdzK0ZyKzcraVRiSDNqb09QTUg4T0NmaUd4Qm5EMGU3Y0c0T0liM29OQWZoalJDTWZvMlJMQW13K0s3Yk9SdlJRWWt4RWVqWlhLY21rV2pWQVJHNExVYzhrcHBzYXd6ZWU2dUYzYXpnNUxzcFZ1RUZESis3MnFSdnRFMEFST1htWVV5bE15M2xiMm9rWjd0bHF3Sm5oUUF6NUx4MmZyejBRKzJ3PT0iLCJtYWMiOiJjYzFkZTBhYzU4OGU2MDc1Y2IzNGY0NTVkODgxZDAxMWE0YjAyODhmMjQ4OTMyYTRiOGNmOTRkZGIzODY0ZTQ0In0=&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=14us8du9tm",
+      "addB_url":"https://api.mcpedl.com/api/download/348777/?r=eyJpdiI6Ilcxak12YzdVQXlYWm1zU0dNMXFQTmc9PSIsInZhbHVlIjoiMEpkUWVqUDg2UWtKQlZFMy9KYWtrS1d2cTEraDdGcm91ViswVllnMmd3MjFRM3ljMUE5V0FXUGU3eEJabHRDdG1Ga3VaVWhKQmRQa1o2ZjZ6ZEx6ZUdZdWpJYWtMZEJ0cmNvMzFrWHpSbWRicHRxVFdia0YybEVrcVRLNnJ4M2UyWUVZR0ZMaHpNRWppN2Yvci9TVzZjTC8rWFpmeC9FRDdxZDYvY3kvcW5EaEtyVTlpN25oMDFzRjNzQkx4YzV3eDVnaXdKQ3FBN1k1WWZOZjA5ZzN4d2x4VlJ0bndicGgreWJ4NEp6WlMwSjZQK2ZrSjNSdnRvaXVGMDYvT2VwSDd4eWp4Y2VhN2p5Z2YxWVFBUFhuQjZVZUkxbWlHUHBobXE4citOZU5PYkQ0MjczSDJYRGQzVVBuYVVRNUpCS2ZBL3BQcitJVUJVQnVyVEN4VE5aQzdtbVUzL0JpNXZsRU80QzRpYkdMdE5QUlhxQ3hOWDB6Um5FdmJTOE1veEgrRytZZGMwcmFVNlJFeVk1ZGlxMEJldkFnVHFqaGpYcXlOd3NCZ1c4aTF3bGlVdnJmWWNsUXgzWFJZNmUzeXVIN1gzakcxR3J6UjVSOTdzQUpjZDRsVEE5L3IzNnRlRUJMSE50cVRaN3ZjaWQ0UzZqNkszYzJWOFNDMmxIZ2ZXUERGUllQbGcxcmhYL0JkMS84d0NNMUVJVW1zbGpwZVdYTW1HWDlNa2tWU01sSVpiYUx6RDJHWnhPQzhLREQvcjJYWjBwRHgzelgyOVZRU3dLTUE3N2owY1k2OXJjNE4vRGdtM2V4UkVzRHY5cTNnZUtoSzVXQ28ra01ZRmxabGNLcUhEUS9xNXFHQlU0VGRnRWM3YVAzcUUydmN4OTVZcEtJWG5jblF5T0JBMzFMR0p6Sk5pZDZSRHAyVnVtWHRWVEZrVFh2TWZmeUsvNlJKWmZKbWVtdndXUGlJYXpzSVQ3TS8remdFUDBTQ05FR2dxZ2F0dVdzK0ZyKzcraVRiSDNqb09QTUg4T0NmaUd4Qm5EMGU3Y0c0T0liM29OQWZoalJDTWZvMlJMQW13K0s3Yk9SdlJRWWt4RWVqWlhLY21rV2pWQVJHNExVYzhrcHBzYXd6ZWU2dUYzYXpnNUxzcFZ1RUZESis3MnFSdnRFMEFST1htWVV5bE15M2xiMm9rWjd0bHF3Sm5oUUF6NUx4MmZyejBRKzJ3PT0iLCJtYWMiOiJjYzFkZTBhYzU4OGU2MDc1Y2IzNGY0NTVkODgxZDAxMWE0YjAyODhmMjQ4OTMyYTRiOGNmOTRkZGIzODY0ZTQ0In0=&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=14us8du9tm",
+      "addR_url":"https://api.mcpedl.com/api/download/348777/?r=eyJpdiI6Ilcxak12YzdVQXlYWm1zU0dNMXFQTmc9PSIsInZhbHVlIjoiMEpkUWVqUDg2UWtKQlZFMy9KYWtrS1d2cTEraDdGcm91ViswVllnMmd3MjFRM3ljMUE5V0FXUGU3eEJabHRDdG1Ga3VaVWhKQmRQa1o2ZjZ6ZEx6ZUdZdWpJYWtMZEJ0cmNvMzFrWHpSbWRicHRxVFdia0YybEVrcVRLNnJ4M2UyWUVZR0ZMaHpNRWppN2Yvci9TVzZjTC8rWFpmeC9FRDdxZDYvY3kvcW5EaEtyVTlpN25oMDFzRjNzQkx4YzV3eDVnaXdKQ3FBN1k1WWZOZjA5ZzN4d2x4VlJ0bndicGgreWJ4NEp6WlMwSjZQK2ZrSjNSdnRvaXVGMDYvT2VwSDd4eWp4Y2VhN2p5Z2YxWVFBUFhuQjZVZUkxbWlHUHBobXE4citOZU5PYkQ0MjczSDJYRGQzVVBuYVVRNUpCS2ZBL3BQcitJVUJVQnVyVEN4VE5aQzdtbVUzL0JpNXZsRU80QzRpYkdMdE5QUlhxQ3hOWDB6Um5FdmJTOE1veEgrRytZZGMwcmFVNlJFeVk1ZGlxMEJldkFnVHFqaGpYcXlOd3NCZ1c4aTF3bGlVdnJmWWNsUXgzWFJZNmUzeXVIN1gzakcxR3J6UjVSOTdzQUpjZDRsVEE5L3IzNnRlRUJMSE50cVRaN3ZjaWQ0UzZqNkszYzJWOFNDMmxIZ2ZXUERGUllQbGcxcmhYL0JkMS84d0NNMUVJVW1zbGpwZVdYTW1HWDlNa2tWU01sSVpiYUx6RDJHWnhPQzhLREQvcjJYWjBwRHgzelgyOVZRU3dLTUE3N2owY1k2OXJjNE4vRGdtM2V4UkVzRHY5cTNnZUtoSzVXQ28ra01ZRmxabGNLcUhEUS9xNXFHQlU0VGRnRWM3YVAzcUUydmN4OTVZcEtJWG5jblF5T0JBMzFMR0p6Sk5pZDZSRHAyVnVtWHRWVEZrVFh2TWZmeUsvNlJKWmZKbWVtdndXUGlJYXpzSVQ3TS8remdFUDBTQ05FR2dxZ2F0dVdzK0ZyKzcraVRiSDNqb09QTUg4T0NmaUd4Qm5EMGU3Y0c0T0liM29OQWZoalJDTWZvMlJMQW13K0s3Yk9SdlJRWWt4RWVqWlhLY21rV2pWQVJHNExVYzhrcHBzYXd6ZWU2dUYzYXpnNUxzcFZ1RUZESis3MnFSdnRFMEFST1htWVV5bE15M2xiMm9rWjd0bHF3Sm5oUUF6NUx4MmZyejBRKzJ3PT0iLCJtYWMiOiJjYzFkZTBhYzU4OGU2MDc1Y2IzNGY0NTVkODgxZDAxMWE0YjAyODhmMjQ4OTMyYTRiOGNmOTRkZGIzODY0ZTQ0In0=&ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=14us8du9tm",
+      "view_add":"https://lemandevcv.github.io/lemangambar/music/q2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":3,
+      "name_add":"Music+ Resource Pack Mod MCPE",
+      "add_url":"https://download847.mediafire.com/36cnvve242vg/rwu80nbc0tc0cwe/MusicPlayerUILite%282.1.0%29.mcpack",
+      "addB_url":"https://download847.mediafire.com/36cnvve242vg/rwu80nbc0tc0cwe/MusicPlayerUILite%282.1.0%29.mcpack",
+      "addR_url":"https://download847.mediafire.com/36cnvve242vg/rwu80nbc0tc0cwe/MusicPlayerUILite%282.1.0%29.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/music/q3.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":4,
+      "name_add":"Music+ Resource Pack Mod MCPE",
+      "add_url":"https://dl.mcpedl.com/texturepacks/2000/NCS_Disc_Pack-Version_1.mcpack?ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=14us8du9tm",
+      "addB_url":"https://dl.mcpedl.com/texturepacks/2000/NCS_Disc_Pack-Version_1.mcpack?ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=14us8du9tm",
+      "addR_url":"https://dl.mcpedl.com/texturepacks/2000/NCS_Disc_Pack-Version_1.mcpack?ft=f9f5c685ee8e1853391d9816a82ed7d6&bd=14us8du9tm",
+      "view_add":"https://lemandevcv.github.io/lemangambar/music/q1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":5,
+      "name_add":"Music+ Resource Pack Mod MCPE",
+      "add_url":"https://download2270.mediafire.com/8bxid75cwqkg/bb6i4t1ab8ep8tv/MusicPlus%283.1.0%29.mcpack",
+      "addB_url":"https://download2270.mediafire.com/8bxid75cwqkg/bb6i4t1ab8ep8tv/MusicPlus%283.1.0%29.mcpack",
+      "addR_url":"https://download2270.mediafire.com/8bxid75cwqkg/bb6i4t1ab8ep8tv/MusicPlus%283.1.0%29.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/music/q5.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":6,
+      "name_add":"Music+ Resource Pack Mod MCPE",
+      "add_url":"https://download1320.mediafire.com/5ed1i5hc0xkg/y4u099oecgeh8s5/BeatsUi+v2point1.mcpack",
+      "addB_url":"https://download1320.mediafire.com/5ed1i5hc0xkg/y4u099oecgeh8s5/BeatsUi+v2point1.mcpack",
+      "addR_url":"https://download1320.mediafire.com/5ed1i5hc0xkg/y4u099oecgeh8s5/BeatsUi+v2point1.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/music/q6.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+

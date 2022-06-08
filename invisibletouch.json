@@ -1,0 +1,59 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Invisible Touch for Minecraft PE",
+      "add_url":"https://archive.org/download/2-r_20220606/1.zip",
+      "addB_url":"",
+      "addR_url":"https://archive.org/download/2-r_20220606/1R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/invisibletouch/q1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":2,
+      "name_add":"Invisible Touch for Minecraft PE",
+      "add_url":"https://archive.org/download/2-r_20220606/2.zip",
+      "addB_url":"",
+      "addR_url":"https://archive.org/download/2-r_20220606/2R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/invisibletouch/q2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+

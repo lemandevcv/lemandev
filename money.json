@@ -1,0 +1,104 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Money Mod for Minecraft PE",
+      "add_url":"https://archive.org/download/6_20220606/1.zip",
+      "addB_url":"https://archive.org/download/6_20220606/1B.mcpack",
+      "addR_url":"https://archive.org/download/6_20220606/1R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/money/q1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":2,
+      "name_add":"Money Mod for Minecraft PE",
+      "add_url":"https://archive.org/download/6_20220606/2.zip",
+      "addB_url":"https://archive.org/download/6_20220606/2B.mcpack",
+      "addR_url":"https://archive.org/download/6_20220606/2R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/money/q2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":3,
+      "name_add":"Money Mod for Minecraft PE",
+      "add_url":"https://archive.org/download/6_20220606/3.zip",
+      "addB_url":"https://archive.org/download/6_20220606/3B.mcpack",
+      "addR_url":"https://archive.org/download/6_20220606/3R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/money/q3.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":4,
+      "name_add":"Money Mod for Minecraft PE",
+      "add_url":"https://archive.org/download/6_20220606/4.zip",
+      "addB_url":"https://archive.org/download/6_20220606/4B.mcpack",
+      "addR_url":"https://archive.org/download/6_20220606/4R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/money/q4.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":5,
+      "name_add":"Money Mod for Minecraft PE",
+      "add_url":"https://archive.org/download/6_20220606/5.zip",
+      "addB_url":"https://archive.org/download/6_20220606/5B.mcpack",
+      "addR_url":"https://archive.org/download/6_20220606/5R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/money/q5.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":6,
+      "name_add":"Money Mod for Minecraft PE",
+      "add_url":"https://archive.org/download/6_20220606/6.zip",
+      "addB_url":"https://archive.org/download/6_20220606/6B.mcpack",
+      "addR_url":"https://archive.org/download/6_20220606/6R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/money/q6.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":7,
+      "name_add":"Money Mod for Minecraft PE",
+      "add_url":"https://archive.org/download/6_20220606/7.zip",
+      "addB_url":"https://archive.org/download/6_20220606/7B.mcpack",
+      "addR_url":"https://archive.org/download/6_20220606/7R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/money/q7.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
