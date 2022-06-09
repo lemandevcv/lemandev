@@ -34,56 +34,38 @@
   [
     {
       "id":1,
-      "name_add":"Animated RGB",
-      "add_url":"https://archive.org/download/4_20220604/1.zip",
-      "addB_url":"",
-      "addR_url":"https://archive.org/download/4_20220604/1R.mcpack",
-      "view_add":"https://lemandevcv.github.io/lemangambar/animatedrgb/q1.png",
+      "name_add":"Minecraft 3D mod pack",
+      "add_url":"https://download2278.mediafire.com/8ylr6di41hhg/m1o22wnou0vtcka/Minecraft+3D+128x.mcpack",
+      "addB_url":"https://download2278.mediafire.com/8ylr6di41hhg/m1o22wnou0vtcka/Minecraft+3D+128x.mcpack",
+      "addR_url":"https://download2278.mediafire.com/8ylr6di41hhg/m1o22wnou0vtcka/Minecraft+3D+128x.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/minecraft3d/q1.png",
       "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
     },
 	{
       "id":2,
-      "name_add":"Animated RGB",
-      "add_url":"https://archive.org/download/4_20220604/2.zip",
-      "addB_url":"",
-      "addR_url":"https://archive.org/download/4_20220604/2R.mcpack",
-      "view_add":"https://lemandevcv.github.io/lemangambar/animatedrgb/q2.png",
+      "name_add":"Minecraft 3D mod pack",
+      "add_url":"https://download2334.mediafire.com/v5okcopveo8g/gmjkjpmjeqa6zbw/Minecraft+3D+256x.mcpack",
+      "addB_url":"https://download2334.mediafire.com/v5okcopveo8g/gmjkjpmjeqa6zbw/Minecraft+3D+256x.mcpack",
+      "addR_url":"https://download2334.mediafire.com/v5okcopveo8g/gmjkjpmjeqa6zbw/Minecraft+3D+256x.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/minecraft3d/q2.png",
       "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
     },
 	{
       "id":3,
-      "name_add":"Animated RGB",
-      "add_url":"https://archive.org/download/4_20220604/3.zip",
-      "addB_url":"",
-      "addR_url":"https://archive.org/download/4_20220604/3R.mcpack",
-      "view_add":"https://lemandevcv.github.io/lemangambar/animatedrgb/q3.png",
+      "name_add":"Minecraft 3D mod pack",
+      "add_url":"https://download2331.mediafire.com/5z2qdo9b05fg/272gadwln4v5gpp/Minecraft+3D+64x.mcpack",
+      "addB_url":"https://download2331.mediafire.com/5z2qdo9b05fg/272gadwln4v5gpp/Minecraft+3D+64x.mcpack",
+      "addR_url":"https://download2331.mediafire.com/5z2qdo9b05fg/272gadwln4v5gpp/Minecraft+3D+64x.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/minecraft3d/q3.png",
       "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
     },
 	{
       "id":4,
-      "name_add":"Animated RGB",
-      "add_url":"https://archive.org/download/4_20220604/4.zip",
-      "addB_url":"",
-      "addR_url":"https://archive.org/download/4_20220604/4R.mcpack",
-      "view_add":"https://lemandevcv.github.io/lemangambar/animatedrgb/q4.png",
-      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
-    },
-	{
-      "id":5,
-      "name_add":"Animated RGB",
-      "add_url":"https://archive.org/download/4_20220604/5.zip",
-      "addB_url":"",
-      "addR_url":"https://archive.org/download/4_20220604/5R.mcpack",
-      "view_add":"https://lemandevcv.github.io/lemangambar/animatedrgb/q5.png",
-      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
-    },
-	{
-      "id":6,
-      "name_add":"Animated RGB",
-      "add_url":"https://archive.org/download/4_20220604/6.zip",
-      "addB_url":"",
-      "addR_url":"https://archive.org/download/4_20220604/6R.mcpack",
-      "view_add":"https://lemandevcv.github.io/lemangambar/animatedrgb/q6.png",
+      "name_add":"Minecraft 3D mod pack",
+      "add_url":"https://download2275.mediafire.com/gabpzo8ojxwg/osc2qww2kgvakt0/3D+Mobs.mcpack",
+      "addB_url":"https://download2275.mediafire.com/gabpzo8ojxwg/osc2qww2kgvakt0/3D+Mobs.mcpack",
+      "addR_url":"https://download2275.mediafire.com/gabpzo8ojxwg/osc2qww2kgvakt0/3D+Mobs.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/minecraft3d/q4.png",
       "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
     }
   ],
