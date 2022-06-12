@@ -1,0 +1,104 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Pixelmon Mod Minecraft Pokemon",
+      "add_url":"https://archive.org/download/1_20220612_20220612_0537/1.zip",
+      "addB_url":"https://archive.org/download/1_20220612_20220612_0537/1B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220612_20220612_0537/1R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/pixelmon/q1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":2,
+      "name_add":"Pixelmon Mod Minecraft Pokemon",
+      "add_url":"https://archive.org/download/1_20220612_20220612_0537/2.zip",
+      "addB_url":"https://archive.org/download/1_20220612_20220612_0537/2B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220612_20220612_0537/2R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/pixelmon/q2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":3,
+      "name_add":"Pixelmon Mod Minecraft Pokemon",
+      "add_url":"https://archive.org/download/1_20220612_20220612_0537/3.zip",
+      "addB_url":"https://archive.org/download/1_20220612_20220612_0537/3B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220612_20220612_0537/3R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/pixelmon/q3.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":4,
+      "name_add":"Pixelmon Mod Minecraft Pokemon",
+      "add_url":"https://archive.org/download/1_20220612_20220612_0537/4.zip",
+      "addB_url":"https://archive.org/download/1_20220612_20220612_0537/4B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220612_20220612_0537/4R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/pixelmon/q4.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":5,
+      "name_add":"Pixelmon Mod Minecraft Pokemon",
+      "add_url":"https://archive.org/download/1_20220612_20220612_0537/5.zip",
+      "addB_url":"https://archive.org/download/1_20220612_20220612_0537/5B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220612_20220612_0537/5R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/pixelmon/q5.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":6,
+      "name_add":"Pixelmon Mod Minecraft Pokemon",
+      "add_url":"https://archive.org/download/1_20220612_20220612_0537/6.zip",
+      "addB_url":"https://archive.org/download/1_20220612_20220612_0537/6B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220612_20220612_0537/6R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/pixelmon/q6.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":7,
+      "name_add":"Pixelmon Mod Minecraft Pokemon",
+      "add_url":"https://archive.org/download/1_20220612_20220612_0537/7.zip",
+      "addB_url":"https://archive.org/download/1_20220612_20220612_0537/7B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220612_20220612_0537/7R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/pixelmon/q7.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
