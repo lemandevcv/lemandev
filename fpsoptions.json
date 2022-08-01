@@ -2,16 +2,16 @@
   "Ads":
   [
     {
-      "select_main_ads": "UNITY",
-      "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"Interstitial_Android",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"UNITY",
+      "main_ads_banner": "507249047868412_515166700409980",
+      "main_ads_intertitial":"507249047868412_507250824534901",
       "native_for_admob":"",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_intertitial":"Interstitial_Android",
       "interval_intertitial": 0,
-      "initialize_sdk":"4845719",
-      "initialize_sdk_backup_ads":"204950236",
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"4845719",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
