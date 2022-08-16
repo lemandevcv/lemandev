@@ -3,7 +3,7 @@
   [
     {
       "select_main_ads": "UNITY",
-      "select_backup_ads":"STRTAPP",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "",
       "main_ads_intertitial":"Interstitial_Android",
       "native_for_admob":"",
